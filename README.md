@@ -30,5 +30,5 @@ nPeriodos=7
 # Calculamos el valor futuro:
 valorfuturo=valorFinalSimple[VA=valorActual,r=tasaPeriodo,t=nPeriodos]
 #Imprimos el resultado:
-valorFuturo
+valorfuturo
 ```
