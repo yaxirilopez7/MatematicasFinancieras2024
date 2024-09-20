@@ -77,7 +77,12 @@ valordet=valorDetSimple(VF=valorFuturo,VA=valorActual,r=tasaPeriodo)
 valorDet
 ```
 
-Incluyo mis comandos de consola para su facilitacion de verificacion:
+Incluyo mis comandos de consola para su facilitacion de verificacion, pero antes de ejecutar en la consola estos comando es OBLIGATORIO primero ejecutar lo siguiente:
+```
+https://raw.githubusercontent.com/yaxirilopez7/MatematicasFinancieras2024/refs/heads/main/formulaInteresSimple.R
+```
+Ahora, despues de ejecutar esto, podemos poner en nuestra consola uno por uno de los siguientes:
+
 ```
 VF=valorFinalSimple(VA=1000,r=0.02,t=7)
 ```
