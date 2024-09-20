@@ -79,7 +79,7 @@ valorDet
 
 Incluyo mis comandos de consola para su facilitacion de verificacion, pero antes de ejecutar en la consola estos comando es OBLIGATORIO primero ejecutar lo siguiente:
 ```
-https://raw.githubusercontent.com/yaxirilopez7/MatematicasFinancieras2024/refs/heads/main/formulaInteresSimple.R
+source("https://raw.githubusercontent.com/yaxirilopez7/MatematicasFinancieras2024/refs/heads/main/formulaInteresSimple.R")
 ```
 Ahora, despues de ejecutar esto, podemos poner en nuestra consola uno por uno de los siguientes:
 
